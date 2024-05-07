@@ -8,4 +8,4 @@ I am a fourth-year undergraduate student at the University of Iowa pursuing a B.
 
 Over the past few years of studying geography, I have become much interested in how GIS and data science can be used to change or understand the world as we know it. I hope to gain and use knowledge to identify problems and provide solutions to both environmental and social challenges related to topics such as disasters, climate change, pollution, health, and wellbeing. 
 
-Througout my undergraduate career, I have had the opportunity to further explore explore my interests by participating in programs as an intern and more recently, a graduate research assistanceship. Please see my CV, resume or LinkedIn page for more about research in which I have contributed. 
+Througout my undergraduate career, I have had the opportunity to further explore explore my interests by participating in programs as an intern and more recently, a graduate research assistanceship. Please see my CV, resume or LinkedIn for more about research in which I have contributed. 
