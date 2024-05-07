@@ -15,7 +15,7 @@ Within this course, I completed two projects:
    
 **2. Final project**
    
-   My topic for the course final project is Heat vulnerability and cooling centers in the greater Des Moines area. The code and results for the project is available in the     final project zip file. 
+   My topic for the course final project is heat vulnerability and cooling centers in the greater Des Moines area. The code and results for the project is available in the     final project zip file. 
    
 
 ### About me:
