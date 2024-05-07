@@ -4,14 +4,17 @@
 ### Email: evansangelinab@gmail.com
 ### LinkedIn: https://www.linkedin.com/in/angelina-evans/
 
+
 ### Repository
-This repository contains code from several projects and quizzes of GEOG: 5055 Geospatial Programming. 
+This repository contains python code from several projects and quizzes of GEOG: 5055 Geospatial Programming. 
 Within this course, I completed two projects: 
 
 **1. Geospatial progamming topic presentation/coding tutorial**
+   
    I gave a presentation on object oriented programming to the class and create a coding tutorial on the topic for students to use. The tutorial code and presentation is     available in the object oriented programming zip file. 
    
 **2. Final project**
+   
    My topic for the course final project is Heat vulnerability and cooling centers in the greater Des Moines area. The code and results for the project is available in the     final project zip file. 
    
 
